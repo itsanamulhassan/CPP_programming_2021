@@ -1,0 +1,12 @@
+Page Size
+	Height--> 24cm
+	Width --> 17.5cm
+
+Margins
+	Narrow
+
+Header Size
+	0.4 cm
+	2 cm
+
+ 
